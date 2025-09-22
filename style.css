@@ -98,7 +98,7 @@ img {
 
 /*fondo para el hero*/
 #hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.507), rgba(0, 0, 0, 0.438)), url('/imagenes/in1FOv.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.507), rgba(0, 0, 0, 0.438)), url('imagenes/in1FOv.jpg');
     background-size: cover;
     background-position: center;
  }
@@ -172,7 +172,7 @@ img {
 /*estilos para seccion numeros*/
 #numeros{
     padding: 7%;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/imagenes/numeros-imgdefondo.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('imagenes/numeros-imgdefondo.jpg');
     background-size: cover;
 }
 
@@ -257,7 +257,7 @@ img {
     content: "";
     width: 100%; 
     height: 70%;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/wallpapers/wallpaper-1.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('wallpapers/wallpaper-1.jpg');
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -330,4 +330,5 @@ footer .line{
 
 #footer-logo{
     margin-top: 2%;
+
 }
